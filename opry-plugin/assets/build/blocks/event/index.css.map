@@ -1,0 +1,1 @@
+{"version":3,"file":"blocks/event/index.css","mappings":";;;AAAA;EACI;EAAA;AACJ,C","sources":["webpack://opry-plugin/./src/blocks/event/editor.scss"],"sourcesContent":[".event-add-more {\n    text-decoration: none;\n}"],"names":[],"sourceRoot":""}
